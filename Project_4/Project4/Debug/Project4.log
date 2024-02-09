@@ -1,0 +1,6 @@
+﻿  Project04.cpp
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: PDB 'soil2-static-lib.pdb' was not found with 'soil2-debug.lib(SOIL2.obj)' or at 'C:\Users\Erics\Documents\GitHub\Computer-Graphics\Project4\Debug\soil2-static-lib.pdb'; linking object as if no debug info
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: PDB 'soil2-static-lib.pdb' was not found with 'soil2-debug.lib(image_DXT.obj)' or at 'C:\Users\Erics\Documents\GitHub\Computer-Graphics\Project4\Debug\soil2-static-lib.pdb'; linking object as if no debug info
+soil2-debug.lib(image_helper.obj) : warning LNK4099: PDB 'soil2-static-lib.pdb' was not found with 'soil2-debug.lib(image_helper.obj)' or at 'C:\Users\Erics\Documents\GitHub\Computer-Graphics\Project4\Debug\soil2-static-lib.pdb'; linking object as if no debug info
+soil2-debug.lib(wfETC.obj) : warning LNK4099: PDB 'soil2-static-lib.pdb' was not found with 'soil2-debug.lib(wfETC.obj)' or at 'C:\Users\Erics\Documents\GitHub\Computer-Graphics\Project4\Debug\soil2-static-lib.pdb'; linking object as if no debug info
+  Project4.vcxproj -> C:\Users\Erics\Documents\GitHub\Computer-Graphics\Project4\Debug\Project4.exe
