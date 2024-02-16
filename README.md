@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<h1><b>Computer Graphics Assignments Repository</b></h1>
+<h1><b>Computer Graphics Repository</b></h1>
 
 Welcome to the Computer Graphics Assignments repository! This repository contains a series of projects focused on computer graphics implemented in C++ using OpenGL (via Glut.h). Each assignment explores various concepts and techniques in computer graphics, including rendering 3D models, textures, animation, and user interaction via keyboard and mouse inputs.
 
