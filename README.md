@@ -10,7 +10,7 @@ Welcome to the Computer Graphics Assignments repository! This repository contain
 <h3>Project 1: Rendering Infinite Leaves on a Branch (2D Image)</h3>
 <ul>
   <li>Description: Render a 2D image depicting infinite leaves on a branch.</li>
-  <li>Files: project1.cpp</li>
+  <li>Files: main.cpp</li>
   <li>Instructions: Run the program.</li>
 </ul>
 <br>
@@ -18,7 +18,7 @@ Welcome to the Computer Graphics Assignments repository! This repository contain
 <h3>Project 2: Rendering and Manipulating 3D Models</h3>
 <ul>
   <li>Description: Render three 3D models (Teapot, Sphere, Cube) and enable user-controlled movement.</li>
-  <li>Files: project1.cpp</li>
+  <li>Files: main.cpp</li>
   <li>Instructions: Run the program.</li>
 </ul>
 <br>
@@ -26,7 +26,7 @@ Welcome to the Computer Graphics Assignments repository! This repository contain
 <h3>Project 3: 3D Animation of Solar System</h3>
 <ul>
   <li>Description: Render a 3D animation featuring the moon, sun, and earth, mimicking planetary orbit.</li>
-  <li>Files: project3.cpp</li>
+  <li>Files: main.cpp</li>
   <li>Instructions: Press the space button to initiate the animation and observe the planet's movements.</li>
 </ul>
 <br>
@@ -34,7 +34,7 @@ Welcome to the Computer Graphics Assignments repository! This repository contain
 <h3>Project 4: Creating and Rendering a Skybox</h3>
 <ul>
   <li>Description: Generate a skybox with textured layers to simulate an environment and render a movable object within it.</li>
-  <li>Files: project4.cpp</li>
+  <li>Files: main.cpp</li>
   <li>Instructions: Run the program to interact with the movable object within the skybox environment.</li>
 </ul>
 
@@ -43,7 +43,7 @@ Welcome to the Computer Graphics Assignments repository! This repository contain
 <h3>Project 5: Advanced Skybox Environment with Interactive Models</h3>
 <ul>
   <li>Description: Enhance the skybox project by adding environmental details and loading up to four interactive 3D models.</li>
-  <li>Files: project5.cpp</li>
+  <li>Files: main.cpp</li>
   <li>Instructions: Utilize keyboard inputs to control the movement of the loaded 3D models within the environment.</li>
 </ul>
 
@@ -52,7 +52,7 @@ Welcome to the Computer Graphics Assignments repository! This repository contain
 <h3>Project 6: Rendering a Bunny Model with Realistic Texture and Light Manipulation</h3>
 <ul>
   <li>Description: Render a 3D model of a bunny with realistic fur texture and implement dynamic lighting controlled by mouse movement.</li>
-  <li>Files: project6.cpp</li>
+  <li>Files: main.cpp</li>
   <li>Instructions: Move the mouse to manipulate the lighting source and observe its effects on the bunny model.</li>
 </ul>
 
