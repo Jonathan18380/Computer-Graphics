@@ -70,4 +70,4 @@ Welcome to the Computer Graphics Assignments repository! This repository contain
 
 <br>
 
-<h2><p>Feel free to explore and experiment with the assignments to deepen your understanding of computer graphics concepts and techniques. If you encounter any issues or have questions, don't hesitate to reach out to the repository owner or contribute to the project's development. Happy coding!</p></h2>
+<h2><p>Feel free to explore and experiment with the assignments to deepen your understanding of computer graphics concepts and techniques. If you encounter any issues or have questions, don't hesitate to reach out to me or contribute to the project's development. Happy coding!</p></h2>
